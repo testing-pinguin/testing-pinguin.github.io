@@ -1,0 +1,9 @@
+{
+  "name": "tropy-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.22.1",
+    "sqlite3": "^5.1.7"
+  }
+}
